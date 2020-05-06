@@ -29,8 +29,13 @@ https://gyazo.com/1773a2051846859301ec7e4d5db32db1
 
 Here is how to customize your blips: 
 
-|| {title="Bolingbroke Penitentiary" ||       || colour=75 ||       || id=238 ||      || x=1807.53, y=2605.59, z=45.565},||
- 
-                 ^^                                 ^^                   ^^                                ^^
- 
-  The name of the blip on the map             Color of blip          Blip image     Location of blip using in game coordinates
+{title="Bolingbroke Penitentiary"  >   The name of the blip on the map       
+
+colour=75 > Color of blip  
+
+id=238  > Blip image
+
+x=1807.53, y=2605.59, z=45.565}, > Location of blip using in game coordinates
+
+      
+                      
