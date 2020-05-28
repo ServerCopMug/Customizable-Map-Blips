@@ -8,7 +8,7 @@ This is a script that will put custom blips of your choice, and color, and other
 2. Always give credit.
 3. Only message me on discord for legit reasons.
 
-For any help message me on discord: ServerCopMug#0392
+For any help message me on discord: ServerCop#0392
 
 **Images**
 
